@@ -1,0 +1,2 @@
+cg_web_site_ip = 35.175.177.246
+cg_web_site_port = 5000
